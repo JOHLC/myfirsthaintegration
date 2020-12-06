@@ -1,0 +1,8 @@
+{
+  "domain": "myfirsthaintegration",
+  "name": "My First Home Assistant Integration",
+  "documentation": "https://github.com/JOHLC/myfirsthaintegration",
+  "dependencies": [],
+  "codeowners": ["@JOHLC"],
+  "requirements": []
+}
