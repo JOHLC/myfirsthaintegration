@@ -1,5 +1,6 @@
 {
   "domain": "myfirsthaintegration",
+  "config_flow": true,
   "name": "My First Home Assistant Integration",
   "documentation": "https://github.com/JOHLC/pfSense-FauxAPI-ha",
   "version": "v20210307.1",
