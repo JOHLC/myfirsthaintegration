@@ -1,8 +1,9 @@
 {
   "domain": "myfirsthaintegration",
   "name": "My First Home Assistant Integration",
-  "documentation": "https://github.com/JOHLC/myfirsthaintegration",
+  "documentation": "https://github.com/JOHLC/pfSense-FauxAPI-ha",
+  "version": "v20210307.1",
   "dependencies": [],
   "codeowners": ["@JOHLC"],
-  "requirements": []
+  "requirements": ["pfsense-fauxapi==20190317.1"]
 }
